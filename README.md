@@ -9,6 +9,10 @@ This reposiitory contains guides and instructions to set up Mac OS X El Capitan 
 * 4GB DDR3L RAM (upgraded to 12GB)
 * Intel HD 4400 Graphics
 * Qualcomm QCA9377 Network Card (needs to be replaced)
+* VGA, HDMI
+* 2x USB 3.0, 1x USB 2.0
+* Combo 3.5mm headset jack
+* ODD
  
 ## Install media creation
 Follow [RehabMan](https://github.com/RehabMan)'s [guide](http://www.tonymacx86.com/el-capitan-laptop-support/148093-guide-booting-os-x-installer-laptops-clover.html) on creating an insallation media using Clover.
@@ -53,4 +57,4 @@ TODO
 TODO
 
 ## Miscellaneous
-TODO
+* ODD works OOB. Haven't tested disc burning, though. (TODO: test disc burning)
