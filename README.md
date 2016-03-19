@@ -36,7 +36,7 @@ Follow [EMlyDinEsHMG](https://github.com/EMlyDinEsHMG)'s [guide](http://forum.os
 
 In case the guide is unavailable in the future, here's a mirror and TLDR for the guide. (TODO: Add mirror and TLDR for guide)
 
-I personally installed *SmartTouchpad v.4.2*, and everything seems to be working fine.
+I'm currently testing different types and versions of trackpad drivers. Check out #1 for details.
 
 ### Scrolling issues:
 At first, two-finger scrolling didn't work for me, but doing the following fixes it:
