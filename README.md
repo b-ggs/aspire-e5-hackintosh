@@ -59,3 +59,6 @@ TODO
 
 ## Miscellaneous
 * ODD works OOB. Haven't tested disc burning, though. (TODO: test disc burning)
+
+# License
+GPL v2.0
