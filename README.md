@@ -39,10 +39,9 @@ In case the guide is unavailable in the future, here's a mirror and TLDR for the
 I'm currently testing different types and versions of trackpad drivers. Check out [#1](https://github.com/b-ggs/aspire-e5-hackintosh/issues/1) for details.
 
 ### Scrolling issues:
-At first, two-finger scrolling didn't work for me, but doing the following fixes it:
-
+To get scrolling to work:
 * System Preferences > Trackpad
-* Adjust _Scrolling speed_ until scrolling works
+* Adjust **Scrolling speed** until scrolling works
 
 ### Notes:
 * The touchpad as recognized in `geis-tools` on Arch Linux is `ELAN0501:00 04F3:300A`
