@@ -8,7 +8,7 @@ This repository contains guides and instructions to set up Mac OS X El Capitan o
 * Intel Core i3-4005U 1.7GHz
 * 4GB DDR3L RAM (upgraded to 12GB)
 * Intel HD 4400 Graphics
-* Qualcomm QCA9377 Network Card (needs to be replaced)
+* Qualcomm QCA9377 M.2 NGFF Network Card (needs to be replaced)
 * VGA, HDMI
 * 2x USB 3.0, 1x USB 2.0
 * Combo 3.5mm headset jack
