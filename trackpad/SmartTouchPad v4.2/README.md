@@ -2,12 +2,14 @@
 
 ## Usage
 Using the modified trackpad `Info.plist`
+
 1. Extract the kext from the ZIP file.
 2. Copy `ApplePS2SmartTouchPad_Info.plist` into `ApplePS2SmartTouchPad.kext/Contents/`.
 3. Backup the old `Info.plist` by renaming it to `Info.bak.plist`.
 4. Rename `ApplePS2SmartTouchPad_Info.plist` to `Info.plist`
 
 Using the modified keyboard `Info.plist`
+
 1. Extract the kext from the ZIP file.
 2. Copy `ApplePS2Keyboard_Info.plist` into `ApplePS2SmartTouchPad.kext/Contents/PlugIns/ApplePS2Keyboard.kext/Contents/`.
 3. Backup the old `Info.plist` by renaming it to `Info.bak.plist`.
