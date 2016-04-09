@@ -1020,11 +1020,11 @@
 					<key>2FScroll</key>
 					<dict>
 						<key>2FScrollAccelMode</key>
-						<integer>3</integer>
+						<integer>4</integer>
 						<key>Auto2FingScroll</key>
 						<false/>
 						<key>Continuous2FingScroll</key>
-						<true/>
+						<false/>
 						<key>Inertial2FingScroll</key>
 						<true/>
 						<key>Sling2FingScroll</key>
@@ -1047,7 +1047,7 @@
 						<key>EdgeScrollAccelMode</key>
 						<integer>0</integer>
 						<key>EdgeScrolling</key>
-						<true/>
+						<false/>
 						<key>EdgeVScrollAdaptArea</key>
 						<integer>3</integer>
 						<key>EdgeVScrollArea</key>
@@ -1104,9 +1104,9 @@
 					<key>3FingerSwipeDownAction</key>
 					<integer>4</integer>
 					<key>3FingerSwipeLeftAction</key>
-					<integer>11</integer>
-					<key>3FingerSwipeRightAction</key>
 					<integer>12</integer>
+					<key>3FingerSwipeRightAction</key>
+					<integer>11</integer>
 					<key>3FingerSwipeUpAction</key>
 					<integer>4</integer>
 					<key>3FingerSwipes</key>
@@ -1114,9 +1114,9 @@
 					<key>4FingerSwipeDownAction</key>
 					<integer>4</integer>
 					<key>4FingerSwipeLeftAction</key>
-					<integer>6</integer>
-					<key>4FingerSwipeRightAction</key>
 					<integer>7</integer>
+					<key>4FingerSwipeRightAction</key>
+					<integer>6</integer>
 					<key>4FingerSwipeUpAction</key>
 					<integer>4</integer>
 					<key>4FingerSwipes</key>
