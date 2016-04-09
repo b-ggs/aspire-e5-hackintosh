@@ -1058,7 +1058,7 @@
 						<false/>
 					</dict>
 					<key>InertialScrollLevel</key>
-					<integer>2</integer>
+					<integer>5</integer>
 					<key>NoInertiaForHScroll</key>
 					<true/>
 					<key>ScrollLevelAtBoot</key>
@@ -1102,13 +1102,13 @@
 				<key>Swiping</key>
 				<dict>
 					<key>3FingerSwipeDownAction</key>
-					<integer>4</integer>
+					<integer>13</integer>
 					<key>3FingerSwipeLeftAction</key>
 					<integer>12</integer>
 					<key>3FingerSwipeRightAction</key>
 					<integer>11</integer>
 					<key>3FingerSwipeUpAction</key>
-					<integer>4</integer>
+					<integer>13</integer>
 					<key>3FingerSwipes</key>
 					<true/>
 					<key>4FingerSwipeDownAction</key>
